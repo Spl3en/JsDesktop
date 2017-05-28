@@ -1,0 +1,46 @@
+.jsIcon
+{
+	position : absolute;
+}
+
+.jsIconSel
+{
+	width : 64px;
+	height : 72px;
+	position : absolute;
+	background : #222;
+	border : 1px solid #000;
+	top : 0px;
+	left : 0px;
+	display : none;
+}
+
+.jsIconImg
+{
+	position : absolute;
+	width : 64px;
+	height : 32px;
+}
+
+.jsIconTitle
+{
+	position : absolute;
+	font-size : 10px;
+	font-family : Verdana;
+	text-align : center;
+	width : 64px;
+	height : 40px;
+	overflow : hidden;
+	color : #ffffff;
+	top : 32px;
+}
+
+.JsIconExplorer
+{
+	float : left;
+	width : 64px;
+	height : 32px;
+	margin : 10px;
+	
+	position : absolute;
+}

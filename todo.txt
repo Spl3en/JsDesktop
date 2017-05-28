@@ -1,0 +1,28 @@
+Client :
+	
+	=> Explorer
+		[X] Permettre le drag&drop à *l'intérieur* d'une fenêtre à l'autre
+		[ ] Modifier mode de vue (détails, icones, ...)
+	
+	=> Notepad
+		[ ] Faire des tests
+	
+	=> Visualisation d'image
+		[X] Faire des tests 
+		[X] Finir le précache
+	
+	=> TaskBar
+		[ ] Faire le menu
+	
+	=> JsConsole
+		[ ] Faire l'interface
+	
+Serveur :
+	=> Notepad
+		[ ] Faire des tests
+		
+	=> Données
+		[ ] Structurer base de données pour l'architecture des fichiers (place dans le desktop)
+		
+	=> JsConsole
+		[ ] Faire des tests

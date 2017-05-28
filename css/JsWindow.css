@@ -1,0 +1,76 @@
+.JsWindow
+{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	
+	border : 1px solid #080808;
+}
+
+.isRounded
+{
+	-moz-border-radius : 10px 10px 0px 0px;
+	-webkit-border-radius : 10px 10px 0px 0px;
+}
+
+.jsWindowHeader
+{
+	position : relative;
+	left : 0px;
+	top  : 0px;
+	overflow : hidden;
+	height : 20px;
+
+	-moz-border-radius : 10px 10px 0px 0px;
+	-webkit-border-radius : 10px 10px 0px 0px;
+}
+
+.jsWindowContent
+{
+	position : relative;
+	left : 0px;
+	top  : 0px;
+	height : 0px;
+	font-size : 12px;
+	font-family : Verdana;
+	overflow : auto;
+	background : #0a0a0a;
+}
+
+.jsWindowContent .isWindow
+{
+	background : #0F0F0F;
+}
+
+.jsWindowTitle
+{
+	position : absolute;
+	font-size : 9px;
+	font-family : Verdana;
+	color : #9b9b9b;
+	text-align : left;
+	padding-top : 3px;
+	padding-left : 3px;
+}
+
+/* * * * * * * *
+*	TaskBar
+*/
+.taskBar_buttonList
+{
+	width : 90%;
+	float : left;
+	height : 100%;
+	background : #0a0a0a;
+}
+
+.taskBar_startMenu
+{
+	width : 300px;
+	background : #0F0F0F;
+	overflow : auto;
+	position : absolute;
+	left : 0px;
+	top : 10px;
+	border : 1px solid #000;
+}

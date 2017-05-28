@@ -1,0 +1,142 @@
+.jsButton
+{
+	cursor : pointer;
+	overflow : hidden;
+}
+
+.jsButton_WindowHeader
+{
+	border : 1px solid #444;
+	float : right;
+	color : #CCC;
+	background : url(../img/window/btn1.png) no-repeat;
+	margin-right : 4px;
+	margin-top : 4px;
+	font-size : 8px;
+	font-family : Verdana;
+	text-align : center;
+	
+	width : 20px;
+	height : 10px;
+	
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+}
+
+.jsButton_WList
+{
+	border : 1px solid #000;
+	float : left;
+	
+	color : #9b9b9b;
+	font-size : 9px;
+	font-family : Verdana;
+	text-align : center;
+	
+	padding-top : 6px;
+	margin-right : 3px;
+	
+	background : url(../img/desktop/btnBar1.png) no-repeat;
+	width : 100px;
+	height : 20px;
+	
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+}
+
+.jsButton_previousExplorer
+{
+	background : url(../img/explorer/back4.png) no-repeat;
+	float : left;
+	margin-top : 10px;
+	margin-left : 6px;
+	
+	width : 42px;
+	height : 38px;
+			
+}
+
+.jsButton_forwardExplorer
+{
+	background : url(../img/explorer/forward4.png) no-repeat;
+	float : left;
+	margin-top : 14px;
+	margin-left : 0px;
+	
+	width : 23px;
+	height : 29px;
+}
+
+.jsButton_upExplorer
+{
+	background : url(../img/explorer/up4.png) no-repeat;
+	float : left;
+	margin-top : 14px;
+	margin-left : 0px;
+	
+	width : 31px;
+	height : 29px;
+}
+
+.jsButton_thumbnailExplorer
+{
+	background : url(../img/explorer/Thumbnails1.png) no-repeat;
+	float : left;
+	margin-top : 5px;
+	
+	width : 21px;
+	height : 21px;
+}
+
+.jsButton_tilesExplorer
+{
+	background : url(../img/explorer/tile1.png) no-repeat;
+	float : left;
+	margin-top : 5px;
+	
+	width : 21px;
+	height : 21px;
+}
+
+.jsButton_iconsExplorer
+{
+	background : url(../img/explorer/icons1.png) no-repeat;
+	float : left;
+	margin-top : 5px;
+	
+	width : 21px;
+	height : 21px;
+}
+
+.jsButton_detailsExplorer
+{
+	background : url(../img/explorer/details1.png) no-repeat;
+	float : left;
+	margin-top : 5px;
+	
+	width : 21px;
+	height : 21px;
+}
+
+.jsButton_optionExplorer
+{
+	background : url(../img/explorer/option1.png) no-repeat;
+	position : absolute;
+	top : 10px;
+	right : 10px;
+	
+	width : 44px;
+	height : 39px;
+}
+
+.jsButton_taskBarStart
+{
+	width : 40px;
+	height : 100%;
+	background : #0a0a0a;
+	float : left;
+	margin-right : 5px;
+	background : url(../img/desktop/startButton1.png) no-repeat;
+	margin-top : 5px;
+	margin-left : 30px;
+}

@@ -1,0 +1,100 @@
+/* * * * * * * * * * *
+*	JsExplorer
+*/
+.jsApplication_Explorer_Header
+{
+	width : 100%;
+	height : 60px;
+	background : url(../img/explorer/bkg.png) repeat-x;
+	position : relative;
+}
+
+.jsApplication_Explorer_HeaderbNav
+{
+	float : left;
+	width : auto;
+}
+
+.jsApplication_Explorer_PathBar
+{
+	margin-left : 20px;
+	position : absolute;
+	top : 13px;
+	right : 70px;
+	left : 100px;
+}
+
+.jsApplication_Explorer_PathBarRight
+{
+	background : url(../img/explorer/pathbarRight.png) no-repeat;
+	position : absolute;
+	width : 14px;
+	height : 30px;
+	right : 0px;		
+}
+
+.jsApplication_Explorer_PathBarLeft
+{
+	background : url(../img/explorer/pathbarLeft.png) no-repeat;
+	position : absolute;
+	width : 14px;
+	height : 30px;
+	left : 0px;
+}
+
+.jsApplication_Explorer_PathBarContent
+{
+	background : url(../img/explorer/pathbarContent.png) repeat-x;
+	position : absolute;
+	height : 30px;
+	left : 14px;
+	right : 14px;		
+}
+
+.jsApplication_Explorer_PathbarTextLeft
+{
+	background : url(../img/explorer/pathbarTextLeft.png) no-repeat;
+	width : 12px;
+	height : 30px;
+	position : absolute;
+	left : 85px;
+}
+
+.jsApplication_Explorer_PathbarTextContent
+{
+	background : url(../img/explorer/pathbarTextContent.png) repeat-x;
+	position : absolute;
+	height : 30px;
+	left : 97px;
+	right : 12px;
+}
+
+.jsApplication_Explorer_PathbarText
+{
+	border : none;
+	font-family : Segoe UI;
+	text-align : left;
+	color : #3ebbea;
+	width : 100%;
+	padding : 5px;
+	padding-left : 0px;
+	background-color : transparent;		
+}
+
+.jsApplication_Explorer_PathbarTextRight
+{
+	background : url(../img/explorer/pathbarTextRight.png) no-repeat;
+	width : 12px;
+	height : 30px;
+	position : absolute;
+	right : 0px;
+}
+
+/* * * * * * * * * * *
+*	JsTransfer
+*/
+.jsApplication_Transfer_Window
+{
+
+
+}
